@@ -6,9 +6,9 @@
 		<version>0.0.1</version>
 		<relativePath>../tkh-parent/pom.xml</relativePath>
 	</parent>
-  <artifactId>tkh-sdk</artifactId>
+  <artifactId>cloud-sdk</artifactId>
   <version>0.0.1</version>
-  <name>tkhsdk</name>
+  <name>cloudsdk</name>
   <distributionManagement>
 		<repository>
 			<id>health-repository</id>
